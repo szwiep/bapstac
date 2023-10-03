@@ -1,2 +1,2 @@
 # bapstac
-Best Available Pixel (BAP) composites using STAC Catalogs and APIs in Python (GEE independant).
+Best Available Pixel (BAP) composites from STAC Catalogs in Python (GEE independant).
